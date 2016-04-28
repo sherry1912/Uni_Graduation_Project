@@ -1,0 +1,5 @@
+C:\Users\sherry1912\Desktop\GraduationProject1\PrimeImplicant\bin\Debug\PrimeImplicant.dll
+C:\Users\sherry1912\Desktop\GraduationProject1\PrimeImplicant\bin\Debug\PrimeImplicant.pdb
+C:\Users\sherry1912\Desktop\GraduationProject1\PrimeImplicant\obj\Debug\PrimeImplicant.csprojResolveAssemblyReference.cache
+C:\Users\sherry1912\Desktop\GraduationProject1\PrimeImplicant\obj\Debug\PrimeImplicant.dll
+C:\Users\sherry1912\Desktop\GraduationProject1\PrimeImplicant\obj\Debug\PrimeImplicant.pdb

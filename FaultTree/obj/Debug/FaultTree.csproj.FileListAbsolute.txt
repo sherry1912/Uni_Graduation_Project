@@ -1,0 +1,5 @@
+C:\Users\sherry1912\Desktop\GraduationProject1\FaultTree\bin\Debug\FaultTree.dll
+C:\Users\sherry1912\Desktop\GraduationProject1\FaultTree\bin\Debug\FaultTree.pdb
+C:\Users\sherry1912\Desktop\GraduationProject1\FaultTree\obj\Debug\FaultTree.dll
+C:\Users\sherry1912\Desktop\GraduationProject1\FaultTree\obj\Debug\FaultTree.pdb
+C:\Users\sherry1912\Desktop\GraduationProject1\FaultTree\obj\Debug\FaultTree.csprojResolveAssemblyReference.cache
